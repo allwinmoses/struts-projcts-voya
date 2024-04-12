@@ -1,0 +1,12 @@
+package com.struts.model;
+
+public class Student {
+	private String studentName;
+	private int studentId;
+	private String city;
+	private String email;
+	private String department;
+	
+	
+
+}

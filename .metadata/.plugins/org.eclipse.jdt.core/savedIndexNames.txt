@@ -1,0 +1,17 @@
+INDEX VERSION 1.131+C:\Users\allwin.a\Allwintraining\StrutsDemos\.metadata\.plugins\org.eclipse.jdt.core
+979188037.index
+609243154.index
+2549019750.index
+3366347522.index
+1532779794.index
+3208309006.index
+1672738407.index
+3737622365.index
+1802004676.index
+2321909154.index
+2462811746.index
+78035025.index
+1470540625.index
+1105184463.index
+1865797976.index
+1842143810.index

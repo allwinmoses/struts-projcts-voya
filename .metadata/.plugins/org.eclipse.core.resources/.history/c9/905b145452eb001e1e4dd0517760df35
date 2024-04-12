@@ -1,0 +1,34 @@
+package com.struts.action;
+
+import com.opensymphony.xwork2.ActionSupport;
+
+public class EmployeeAction extends ActionSupport {
+	
+	private String employeeName;
+	private int employeId;
+	public String getEmployeeName() {
+		return employeeName;
+	}
+	public void setEmployeeName(String employeeName) {
+		this.employeeName = employeeName;
+	}
+	public int getEmployeId() {
+		return employeId;
+	}
+	public void setEmployeId(int employeId) {
+		this.employeId = employeId;
+	}
+	
+	public String execute() {
+		if(employeeName.equals("Allwin")) {
+			return SUCCESS;
+		}else {
+			return "index.jsp";
+		}
+	
+	}
+	
+	
+	
+
+}

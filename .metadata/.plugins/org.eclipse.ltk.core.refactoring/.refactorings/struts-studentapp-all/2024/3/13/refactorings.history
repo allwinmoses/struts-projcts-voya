@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;struts-studentapp-all/src/main/webapp/WEB-INF/content/student-success.jsp&apos; to &apos;studentsuccess.jsp&apos;" description="Rename resource &apos;student-success.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/WEB-INF/content/student-success.jsp" name="studentsuccess.jsp" stamp="1711608696035" updateReferences="true"/>
+</session>
